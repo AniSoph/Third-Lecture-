@@ -7,7 +7,7 @@ output: html_notebook
 
 ## Setup
 
-List installed packages. Add text.
+List installed packages. Add text. Why isn't it commiting? 
 
 ```{r}
 library()
